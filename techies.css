@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    scroll-behavior: smooth;
+    /* border: saddlebrown solid; */
+    /* font-family: 'Shadows Into Light', cursive; */
+   
+}
+.blue{
+    color: #667EEA;
+    font-family: 'Raleway', sans-serif;
+
+}
+.cursive{
+    font-family: 'Shadows Into Light', cursive;
+}
